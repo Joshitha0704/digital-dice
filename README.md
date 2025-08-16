@@ -10,9 +10,9 @@ It replaces traditional dice with a modern, electronic alternative that can be u
 
 ## 👩‍💻 Contributors
 
-* **Jai Surya R M**
-* **Javid Shariff A**
-* **Joshitha N**
+* **[Jai Surya RM](https://github.com/jaisurya1github)**
+* **[Javid Shariff](https://github.com/JavidShariff)**
+* **[Joshitha N](https://github.com/Joshitha0704)**
 
 ---
 
